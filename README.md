@@ -133,13 +133,13 @@ We need to make entry in `/etc/hosts` to test application on local server.
 
 now open http://harrythedevopsguy.in or http://www.harrythedevopsguy.in in your browser.
 
-`http://harrythedevopsguy.in` >>  http://www.harrythedevopsguy.in/static/400.html
-http://www.harrythedevopsguy.in  >> http://www.harrythedevopsguy.in/login/?next=/
+`http://harrythedevopsguy.in` >>  `http://www.harrythedevopsguy.in/static/400.html ` </br>
+`http://www.harrythedevopsguy.in`  >> `http://www.harrythedevopsguy.in/login/?next=/` </br>
 
-**login details**
-    - URL : http://www.harrythedevopsguy.in/login/?next=/
-    - user : admin
-    - Pass: 123456
+**login details** </br>
+    - URL : http://www.harrythedevopsguy.in/login/?next=/ </br>
+    - user : admin </br>
+    - Pass: 123456 </br>
 
 
 ---
